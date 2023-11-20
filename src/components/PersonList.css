@@ -1,0 +1,27 @@
+.person-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .person-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .person-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .person-image {
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .person-details {
+    flex: 1;
+  }
+  
